@@ -1,37 +1,13 @@
-## Welcome to Scripting Tutorials
+## How to make a website using GitHub
 
-You can use the [editor on GitHub](https://github.com/ezkurzak/My-First-Website-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you want to learn how to make a website using GitHub you have come to the right place! This website will show all the different possible ways to make your very own website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+--------------------------------------------------------------------------------------------------
 
-### Markdown
+### **- How to make different headings**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you want to add heading into your websites its pretty simple. All you have to do is put # infront of the text you want to add. The more #'s you put the smaller the heading will be.
 
-```markdown
-Syntax highlighted code block
+### **- How to make your text bold or _Italic_**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ezkurzak/My-First-Website-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to make your text bold or italix, its very simple. All you have to is add two * at the end and begining of the text you want to make it bold. To make something italic you have add 1 _ at the begining and end of the text you want to make italic.
